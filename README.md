@@ -30,11 +30,6 @@ Machine learning has become integral across various domains, from healthcare to 
 - Scikit-learn and Keras examples showcasing optimization techniques
 - Performance benchmarks and comparisons
 
-### 3. Resources
-- Research papers and articles on machine learning optimization
-- Links to relevant tutorials and online courses
-- References for further reading
-
 ## Getting Started
 
 To get started with optimizing machine learning algorithms using my repostory, follow these steps:
